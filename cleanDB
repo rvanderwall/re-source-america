@@ -1,0 +1,5 @@
+
+
+python manage.py sqlclear rSrcApp > .drop.cmd
+python cleanDB.py
+
